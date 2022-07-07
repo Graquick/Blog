@@ -29,7 +29,7 @@ const post = [
         <div className="flex flex-col gap-4 mb-16">
             <h2 className="text-[2rem] font-bold">Blockquotes</h2>
             <blockquote cite="http://www.worldwildlife.org/who/index.html">
-            <i>&quot;For 50 years, WWF has been protecting the future of nature.&quot;</i>
+            <i>&quot;For 50 years, WWF has been protecting the future of nature."</i>
             </blockquote>
         </div>
         <div className="flex flex-col gap-4 mb-16">
