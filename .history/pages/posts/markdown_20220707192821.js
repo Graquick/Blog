@@ -63,7 +63,7 @@ export default function Markdown() {
 
       <motion.main className="min-h-screen">
           <div className="absolute left-0 right-0 m-auto top-32 w-fit h-fit xl:flex xl:flex-col xl:top-12">
-            <div className="w-[900px] h-fit flex justify-between xl:w-[350px] xl:flex-col xl:gap-8 xl:mb-16">
+            <div className="w-[900px] h-fit flex justify-between xl:w-[350px] xl:flex-col xl:gap-8 xl:mb-12">
                 {post.map((pos, i) => (
                     <div key={i}>
                         <div className="flex flex-col gap-8 xl:gap-4">
