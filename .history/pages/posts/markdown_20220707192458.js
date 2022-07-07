@@ -82,7 +82,7 @@ export default function Markdown() {
                         {pos.main}
                     </div>
                 ))}
-            <div className="absolute bottom-20 right-0 w-[230px] xl:w-[200px] xl:left-0 xl:right-0 xl:m-auto xl:bottom-0 xl:mb-8">
+            <div className="absolute bottom-20 right-0 w-[230px] xl:w-[200px] xl:left-0 xl:right-0 xl:m-auto xl:bottom-0 xl:mb-12">
                 <Footer />
             </div>
             </div>

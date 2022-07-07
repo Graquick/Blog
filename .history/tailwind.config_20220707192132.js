@@ -14,8 +14,7 @@ module.exports = {
 
       'xl': {'max': '1024px'},
       // => @media (max-width: 1024px) { ... }
-
-      'mxl': {'min': '1024px'},
+      'xl': {'max': '1024px'},
       // => @media (max-width: 1024px) { ... }
 
       'lg': {'max': '768px'},
